@@ -1,0 +1,10 @@
+^C:\USERS\PVRCH\DOCUMENTS\CPP-OPTIMIZATIONS\LOGFAST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/pvrch/Documents/Cpp-Optimizations/logfast -BC:/Users/pvrch/Documents/Cpp-Optimizations/logfast/build --check-stamp-file C:/Users/pvrch/Documents/Cpp-Optimizations/logfast/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

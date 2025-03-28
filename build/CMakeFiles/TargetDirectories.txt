@@ -1,0 +1,3 @@
+C:/Users/pvrch/Documents/Cpp-Optimizations/logfast/build/CMakeFiles/logfast.dir
+C:/Users/pvrch/Documents/Cpp-Optimizations/logfast/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pvrch/Documents/Cpp-Optimizations/logfast/build/CMakeFiles/ZERO_CHECK.dir
